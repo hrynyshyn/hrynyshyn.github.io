@@ -1,0 +1,31 @@
+
+html {
+    background-color: #F9F0F0;
+    font-size: 10px; 
+    font-family: 'Open Sans', sans-serif;
+  }
+  h1 {
+    text-align: center;
+    margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 10px 10px 10px black;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 1.3;
+    letter-spacing: 3px;
+  }
+  body {
+    width: 1600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0px 10px 10px 10px;
+    border: 10px solid black;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
